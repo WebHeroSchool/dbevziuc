@@ -15,6 +15,7 @@
 
 #check_menu{
     display: none;
+    visibility: hidden;
 }
 
 label{
@@ -95,3 +96,13 @@ a:hover{
     display: none;
 }
 
+@media (min-width: 320px) {
+    .wrapper {
+        min-width: 100%;
+    }
+}
+@media (min-width: 220px) {
+    .wrapper {
+        min-width: 100%;
+    }
+}
