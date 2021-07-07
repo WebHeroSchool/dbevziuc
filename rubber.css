@@ -1,0 +1,5 @@
+.container__title {
+    max-width: 500px;
+    min-width: 50px;
+    background: aqua;
+}
